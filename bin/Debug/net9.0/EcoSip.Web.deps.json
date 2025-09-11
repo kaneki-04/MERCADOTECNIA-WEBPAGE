@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EcoSip.Web/1.0.0": {
+        "runtime": {
+          "EcoSip.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcoSip.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

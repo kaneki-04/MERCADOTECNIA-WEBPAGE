@@ -1,0 +1,49 @@
+/* Estilos personalizados para EcoSip */
+
+/* Colores temáticos */
+:root {
+    --ecosip-primary: #2E8B57;
+    --ecosip-secondary: #8FBC8F;
+    --ecosip-accent: #FFD700;
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.product-card {
+    transition: transform 0.3s;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+.btn-ecosip {
+    background-color: var(--ecosip-primary);
+    color: white;
+    border: none;
+}
+
+.btn-ecosip:hover {
+    background-color: var(--ecosip-secondary);
+    color: white;
+}
+
+.eco-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: var(--ecosip-accent);
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+}
