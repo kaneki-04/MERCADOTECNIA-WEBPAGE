@@ -9,41 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EcoSip.Web
 build_property.RootNamespace = EcoSip.Web
-build_property.ProjectDir = C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\
+build_property.ProjectDir = /home/luis/MERCADOTECNIA-WEBPAGE/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE
+build_property.MSBuildProjectDirectory = /home/luis/MERCADOTECNIA-WEBPAGE
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Login/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Pedidos/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvcy9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Registro/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaXN0cm8vaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-7cjfn9pnr2
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/luis/MERCADOTECNIA-WEBPAGE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8pd1huuczd

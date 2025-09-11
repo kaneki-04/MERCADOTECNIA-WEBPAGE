@@ -1,97 +1,195 @@
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\appsettings.Development.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\appsettings.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.staticwebassets.runtime.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.staticwebassets.endpoints.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.exe
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.deps.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.runtimeconfig.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.dll
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\bin\Debug\net9.0\EcoSip.Web.pdb
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.AssemblyInfoInputs.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.AssemblyInfo.cs
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.csproj.CoreCompileInputs.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.RazorAssemblyInfo.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.RazorAssemblyInfo.cs
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.sourcelink.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\scopedcss\bundle\EcoSip.Web.styles.css
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\scopedcss\projectbundle\EcoSip.Web.bundle.scp.css
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\g3jdw5op9b-dwkybaw4jo.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\r4xmfiouww-61n19gt1b8.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\ilzlxu6oan-xtxxf3hu2r.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\bxyxka7voh-bqjiyaj88i.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\hib2ni3q5x-c2jlpeoesf.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\ch43bu0m2e-erw9l3u2r3.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\y2kv532yu9-aexeepp0ev.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\yzmudvvy9c-d7shbmvgxk.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\fwfs5yjjvn-ausgxo2sd3.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\9qbm603b53-k8d9w2qqmf.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\ywvtusjyne-cosvhxvwiu.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\av2vgec89p-ub07r2b239.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\aimxm3m9cu-fvhpjtyr6v.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\csxano7pbp-b7pk76d08c.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\exp2jrwdnv-fsbi9cje9m.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\ugx2vv2fbk-rzd6atqjts.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\81ajkqbc35-ee0r1s7dh0.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\q2zpdjtc6r-dxx9fxp4il.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\z7y9xgzp0w-jd9uben2k1.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\mwbi2qoqob-khv3u5hwcm.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\lszkiujq8r-r4e9w2rdcm.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\3oyel9biq3-lcd1t2u6c8.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\jscyvi5z2s-c2oey78nd0.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\bdywja5jft-tdbxkamptv.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\ttcrpr3hze-j5mq2jizvt.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\8r4rfszcls-06098lyss8.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\cq35nx35wc-nvvlpmu67g.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\11ka5edqyi-s35ty4nyc5.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\m64ujpy61o-pj5nd1wqec.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\queb6273ld-46ein0sx1k.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\l9epq2lpp8-v0zj4ognzu.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\p5k6lw5o8j-37tfw0ft22.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\r8bxrp7t71-hrwsygsryq.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\lumxmuc3i5-pk9g2wxc8p.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\l8x06agp9z-ft3s53vfgj.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\5xi4yhp9sw-6cfz1n2cew.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\awio7shy26-6pdc2jztkx.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\aywx7dd06i-493y06b0oq.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\irxlet9isn-iovd86k7lj.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\82h2619etk-vr1egmr9el.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\sy2xnj36zq-kbrnm935zg.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\2g46nmeqd1-jj8uyg4cgr.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\x8s2kndw0t-y7v9cxd14o.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\3nndoswukc-notf2xhcfb.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\yibcjnu5l7-h1s4sie4z3.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\vy35y5h6yn-63fj8s7r0e.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\498stcjc1a-0j3bgjxly4.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\4lmq8u7z7f-47otxtyo56.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\86xp3jhrqh-4v8eqarkd7.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\o6gxnfstjh-356vix0kms.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\72snzzjkmf-83jwlth58m.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\5qyhhthjiz-mrlpezrjn3.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\1y8vira75u-lzl9nlhx6b.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\tpjhewc92n-ag7o75518u.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\teh99pe74r-x0q3zqp4vz.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\c7gprpp0xf-0i3buxo5is.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\tramfkwe4g-o1o13a6vjx.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\cdbu22s52v-ttgo8qnofa.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\u6ib582fde-2z0ns9nrw6.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\21ts72ipx1-muycvpuwrr.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\xm02ducjn0-87fc7y1x7t.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\8t1xvmg2dj-mlv21k5csn.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\74ag3ygi1j-yfxkteyjay.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\compressed\10c310t4hv-yfxkteyjay.gz
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\staticwebassets.build.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\staticwebassets.development.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.dll
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\refint\EcoSip.Web.dll
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.pdb
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\EcoSip.Web.genruntimeconfig.cache
-C:\Kevin\Cosas\TAREAS\Tareas 2025 SEG\Mercadotecnia\EcoSip WebPage\MERCADOTECNIA-WEBPAGE\obj\Debug\net9.0\ref\EcoSip.Web.dll
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/appsettings.Development.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/appsettings.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.staticwebassets.runtime.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.staticwebassets.endpoints.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.exe
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.deps.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.runtimeconfig.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.dll
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.pdb
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.AssemblyInfoInputs.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.AssemblyInfo.cs
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.csproj.CoreCompileInputs.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.RazorAssemblyInfo.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.RazorAssemblyInfo.cs
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.sourcelink.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/bundle/EcoSip.Web.styles.css
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/projectbundle/EcoSip.Web.bundle.scp.css
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/g3jdw5op9b-dwkybaw4jo.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/r4xmfiouww-61n19gt1b8.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ilzlxu6oan-xtxxf3hu2r.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/bxyxka7voh-bqjiyaj88i.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/hib2ni3q5x-c2jlpeoesf.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ch43bu0m2e-erw9l3u2r3.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/y2kv532yu9-aexeepp0ev.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/yzmudvvy9c-d7shbmvgxk.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/fwfs5yjjvn-ausgxo2sd3.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/9qbm603b53-k8d9w2qqmf.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ywvtusjyne-cosvhxvwiu.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/av2vgec89p-ub07r2b239.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/aimxm3m9cu-fvhpjtyr6v.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/csxano7pbp-b7pk76d08c.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/exp2jrwdnv-fsbi9cje9m.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ugx2vv2fbk-rzd6atqjts.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/81ajkqbc35-ee0r1s7dh0.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/q2zpdjtc6r-dxx9fxp4il.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/z7y9xgzp0w-jd9uben2k1.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/mwbi2qoqob-khv3u5hwcm.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/lszkiujq8r-r4e9w2rdcm.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/3oyel9biq3-lcd1t2u6c8.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/jscyvi5z2s-c2oey78nd0.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/bdywja5jft-tdbxkamptv.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ttcrpr3hze-j5mq2jizvt.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/8r4rfszcls-06098lyss8.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/cq35nx35wc-nvvlpmu67g.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/11ka5edqyi-s35ty4nyc5.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/m64ujpy61o-pj5nd1wqec.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/queb6273ld-46ein0sx1k.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/l9epq2lpp8-v0zj4ognzu.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/p5k6lw5o8j-37tfw0ft22.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/r8bxrp7t71-hrwsygsryq.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/lumxmuc3i5-pk9g2wxc8p.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/l8x06agp9z-ft3s53vfgj.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/5xi4yhp9sw-6cfz1n2cew.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/awio7shy26-6pdc2jztkx.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/aywx7dd06i-493y06b0oq.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/irxlet9isn-iovd86k7lj.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/82h2619etk-vr1egmr9el.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/sy2xnj36zq-kbrnm935zg.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/2g46nmeqd1-jj8uyg4cgr.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/x8s2kndw0t-y7v9cxd14o.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/3nndoswukc-notf2xhcfb.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/yibcjnu5l7-h1s4sie4z3.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/vy35y5h6yn-63fj8s7r0e.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/498stcjc1a-0j3bgjxly4.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/4lmq8u7z7f-47otxtyo56.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/86xp3jhrqh-4v8eqarkd7.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/o6gxnfstjh-356vix0kms.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/72snzzjkmf-83jwlth58m.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/5qyhhthjiz-mrlpezrjn3.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/1y8vira75u-lzl9nlhx6b.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/tpjhewc92n-ag7o75518u.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/teh99pe74r-x0q3zqp4vz.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/c7gprpp0xf-0i3buxo5is.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/tramfkwe4g-o1o13a6vjx.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/cdbu22s52v-ttgo8qnofa.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/u6ib582fde-2z0ns9nrw6.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/21ts72ipx1-muycvpuwrr.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/xm02ducjn0-87fc7y1x7t.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/8t1xvmg2dj-mlv21k5csn.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/74ag3ygi1j-yfxkteyjay.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/10c310t4hv-yfxkteyjay.gz
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.build.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.development.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.dll
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/refint/EcoSip.Web.dll
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.pdb
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.genruntimeconfig.cache
+C:/Kevin/Cosas/TAREAS/Tareas 2025 SEG/Mercadotecnia/EcoSip WebPage/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/ref/EcoSip.Web.dll
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/appsettings.Development.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/appsettings.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.staticwebassets.runtime.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.staticwebassets.endpoints.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.deps.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.runtimeconfig.json
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.dll
+/home/luis/MERCADOTECNIA-WEBPAGE/bin/Debug/net9.0/EcoSip.Web.pdb
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.AssemblyInfoInputs.cache
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.AssemblyInfo.cs
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.csproj.CoreCompileInputs.cache
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.RazorAssemblyInfo.cache
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.RazorAssemblyInfo.cs
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.sourcelink.json
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/bundle/EcoSip.Web.styles.css
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/scopedcss/projectbundle/EcoSip.Web.bundle.scp.css
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/g3jdw5op9b-annf2kp4hf.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/r4xmfiouww-61n19gt1b8.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ilzlxu6oan-fr7q2aak1r.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/bxyxka7voh-bqjiyaj88i.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/hib2ni3q5x-c2jlpeoesf.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ch43bu0m2e-erw9l3u2r3.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/y2kv532yu9-aexeepp0ev.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/yzmudvvy9c-d7shbmvgxk.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/fwfs5yjjvn-ausgxo2sd3.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/9qbm603b53-k8d9w2qqmf.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ywvtusjyne-cosvhxvwiu.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/av2vgec89p-ub07r2b239.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/aimxm3m9cu-fvhpjtyr6v.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/csxano7pbp-b7pk76d08c.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/exp2jrwdnv-fsbi9cje9m.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ugx2vv2fbk-rzd6atqjts.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/81ajkqbc35-ee0r1s7dh0.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/q2zpdjtc6r-dxx9fxp4il.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/z7y9xgzp0w-jd9uben2k1.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/mwbi2qoqob-khv3u5hwcm.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/lszkiujq8r-r4e9w2rdcm.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/3oyel9biq3-lcd1t2u6c8.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/jscyvi5z2s-c2oey78nd0.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/bdywja5jft-tdbxkamptv.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/ttcrpr3hze-j5mq2jizvt.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/8r4rfszcls-06098lyss8.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/cq35nx35wc-nvvlpmu67g.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/11ka5edqyi-s35ty4nyc5.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/m64ujpy61o-pj5nd1wqec.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/queb6273ld-46ein0sx1k.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/l9epq2lpp8-v0zj4ognzu.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/p5k6lw5o8j-37tfw0ft22.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/r8bxrp7t71-hrwsygsryq.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/lumxmuc3i5-pk9g2wxc8p.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/l8x06agp9z-ft3s53vfgj.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/5xi4yhp9sw-6cfz1n2cew.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/awio7shy26-6pdc2jztkx.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/aywx7dd06i-493y06b0oq.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/irxlet9isn-iovd86k7lj.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/82h2619etk-vr1egmr9el.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/sy2xnj36zq-kbrnm935zg.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/2g46nmeqd1-jj8uyg4cgr.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/x8s2kndw0t-y7v9cxd14o.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/3nndoswukc-notf2xhcfb.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/yibcjnu5l7-h1s4sie4z3.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/vy35y5h6yn-63fj8s7r0e.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/498stcjc1a-0j3bgjxly4.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/4lmq8u7z7f-47otxtyo56.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/86xp3jhrqh-4v8eqarkd7.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/o6gxnfstjh-l3n5xuwxn8.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/72snzzjkmf-ilo7uva0vt.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/5qyhhthjiz-qlccset4i1.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/1y8vira75u-lzl9nlhx6b.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/tpjhewc92n-ag7o75518u.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/teh99pe74r-xzw0cte36n.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/c7gprpp0xf-0i3buxo5is.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/tramfkwe4g-o1o13a6vjx.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/cdbu22s52v-ttgo8qnofa.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/u6ib582fde-2z0ns9nrw6.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/21ts72ipx1-muycvpuwrr.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/xm02ducjn0-87fc7y1x7t.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/8t1xvmg2dj-jfsiqqwiad.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/74ag3ygi1j-n3my0ioyv6.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/compressed/10c310t4hv-n3my0ioyv6.gz
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.build.json
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.development.json
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets/msbuild.EcoSip.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets/msbuild.EcoSip.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets/msbuild.build.EcoSip.Web.props
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.EcoSip.Web.props
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.EcoSip.Web.props
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/staticwebassets.pack.json
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.dll
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/refint/EcoSip.Web.dll
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.pdb
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/EcoSip.Web.genruntimeconfig.cache
+/home/luis/MERCADOTECNIA-WEBPAGE/obj/Debug/net9.0/ref/EcoSip.Web.dll
