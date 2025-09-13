@@ -2,41 +2,151 @@
     ViewData["Title"] = "Inicio - EcoSip";
 }
 
+<style>
+    /* Estilos generales y variables */
+    :root {
+        --color-primary: #4CAF50; /* Un verde más vibrante */
+        --color-secondary: #FFC107; /* Amarillo para acentuar */
+        --color-text: #333;
+        --color-bg-light: #F8F9FA;
+        --color-bg-dark: #2C3E50;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif; /* Fuente más moderna */
+        color: var(--color-text);
+        line-height: 1.6;
+    }
+
+    .btn-ecosip {
+        background-color: var(--color-primary);
+        color: #fff;
+        border-radius: 50px; /* Botones redondeados */
+        padding: 12px 25px;
+        transition: transform 0.3s ease, background-color 0.3s ease;
+    }
+
+    .btn-ecosip:hover {
+        background-color: #45a049;
+        transform: translateY(-3px); /* Efecto de levitación */
+        color: #fff;
+    }
+
+    .section-title {
+        font-weight: 700;
+        color: var(--color-primary);
+        margin-bottom: 2rem;
+    }
+
+    /* Hero Section */
+    .hero-section {
+        /* Imagen de Unsplash: botellas de plástico y plantas, simbolizando reciclaje y vida */
+        background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://i.pinimg.com/736x/3d/7e/46/3d7e46be55640482a8d4ddbf244de2f3.jpg') no-repeat center center/cover;
+        color: #fff;
+        text-align: center;
+        padding: 10rem 0;
+        min-height: 500px; /* Asegura una altura mínima */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .hero-section h1 {
+        font-weight: 700;
+        font-size: 3.5rem;
+    }
+
+    .hero-section p {
+        font-size: 1.25rem;
+        max-width: 600px;
+        margin: 0 auto 2rem;
+    }
+
+    /* Feature Section */
+    .feature-icon {
+        color: var(--color-primary);
+        font-size: 4rem;
+        margin-bottom: 1rem;
+        transition: transform 0.3s ease;
+    }
+
+    .feature-card:hover .feature-icon {
+        transform: scale(1.1);
+    }
+
+    /* Product Section */
+    .product-card {
+        border-radius: 15px;
+        overflow: hidden;
+        transition: box-shadow 0.3s ease, transform 0.3s ease;
+        position: relative;
+    }
+
+    .product-card:hover {
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        transform: translateY(-5px);
+    }
+
+    .product-card img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .eco-badge {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        background-color: var(--color-secondary);
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: bold;
+    }
+
+    /* Mission Section */
+    .mission-section .img-fluid {
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+</style>
+
 <div class="hero-section">
     <div class="container">
-        <h1 class="display-4">Transformamos botellas en arte</h1>
-        <p class="lead">En EcoSip reciclamos botellas plásticas y las convertimos en hermosos adornos para tu hogar.</p>
-        <a class="btn btn-lg btn-ecosip" href="#products" role="button">Ver productos</a>
+        <h1 class="display-4 animate__animated animate__fadeInDown">Transformamos botellas en arte</h1>
+        <p class="lead animate__animated animate__fadeInUp animate__delay-1s">En EcoSip reciclamos botellas plásticas y las convertimos en hermosos adornos para tu hogar.</p>
+        <a class="btn btn-lg btn-ecosip animate__animated animate__zoomIn animate__delay-2s" href="#products" role="button">Ver productos</a>
     </div>
 </div>
 
 <section class="py-5">
     <div class="container">
+        <h2 class="text-center section-title">Nuestra Forma de Trabajar</h2>
         <div class="row text-center">
             <div class="col-lg-4 mb-4">
-                <div class="card h-100 border-0">
+                <div class="card h-100 border-0 shadow-sm feature-card">
                     <div class="card-body">
-                        <i class="fas fa-recycle fa-3x text-success mb-3"></i>
+                        <i class="fas fa-recycle fa-3x feature-icon mb-3"></i>
                         <h3 class="card-title">Reciclamos</h3>
-                        <p class="card-text">Recolectamos y procesamos botellas plásticas para darles una nueva vida.</p>
+                        <p class="card-text">Recolectamos y procesamos botellas plásticas para darles una nueva vida, contribuyendo a un planeta más limpio.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mb-4">
-                <div class="card h-100 border-0">
+                <div class="card h-100 border-0 shadow-sm feature-card">
                     <div class="card-body">
-                        <i class="fas fa-paint-brush fa-3x text-success mb-3"></i>
+                        <i class="fas fa-paint-brush fa-3x feature-icon mb-3"></i>
                         <h3 class="card-title">Creamos</h3>
-                        <p class="card-text">Transformamos el plástico reciclado en productos únicos y decorativos.</p>
+                        <p class="card-text">Transformamos el plástico reciclado en productos únicos y decorativos, llenos de creatividad y propósito.</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mb-4">
-                <div class="card h-100 border-0">
+                <div class="card h-100 border-0 shadow-sm feature-card">
                     <div class="card-body">
-                        <i class="fas fa-heart fa-3x text-success mb-3"></i>
+                        <i class="fas fa-heart fa-3x feature-icon mb-3"></i>
                         <h3 class="card-title">Contribuimos</h3>
-                        <p class="card-text">Cada compra ayuda a reducir la contaminación por plástico en nuestro planeta.</p>
+                        <p class="card-text">Cada compra ayuda a reducir la contaminación por plástico en nuestro planeta, fomentando un futuro sostenible.</p>
                     </div>
                 </div>
             </div>
@@ -46,12 +156,12 @@
 
 <section id="products" class="bg-light py-5">
     <div class="container">
-        <h2 class="text-center mb-5">Nuestros Productos</h2>
+        <h2 class="text-center section-title">Nuestros Productos</h2>
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card product-card">
                     <span class="eco-badge">Ecológico</span>
-                    <img src="/images/maceta.jpg" class="card-img-top" alt="Maceta reciclada">
+                    <img src="/image/maseta.jpg" class="card-img-top" alt="Maceta reciclada">
                     <div class="card-body">
                         <h5 class="card-title">Macetas Decorativas</h5>
                         <p class="card-text">Hermosas macetas creadas a partir de botellas recicladas, perfectas para tus plantas.</p>
@@ -62,7 +172,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card product-card">
                     <span class="eco-badge">Ecológico</span>
-                    <img src="/images/alcancia.jpg" class="card-img-top" alt="Alcancía reciclada">
+                    <img src="/image/alcancia.jpg" class="card-img-top" alt="Alcancía reciclada">
                     <div class="card-body">
                         <h5 class="card-title">Alcancías</h5>
                         <p class="card-text">Divertidas alcancías con formas de animales, ideales para enseñar a los niños sobre el ahorro.</p>
@@ -73,7 +183,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card product-card">
                     <span class="eco-badge">Ecológico</span>
-                    <img src="/images/adorno.jpg" class="card-img-top" alt="Adorno reciclado">
+                    <img src="/image/adorno.jpeg" class="card-img-top" alt="Adorno reciclado">
                     <div class="card-body">
                         <h5 class="card-title">Adornos</h5>
                         <p class="card-text">Originales adornos para el hogar, cada pieza es única y con historia.</p>
@@ -85,17 +195,17 @@
     </div>
 </section>
 
-<section class="py-5">
+<section class="py-5 mission-section">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6">
-                <h2>Nuestra Misión</h2>
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                <h2 class="section-title">Nuestra Misión</h2>
                 <p>En EcoSip nos dedicamos a reducir la contaminación por plástico transformando botellas desechadas en productos útiles y decorativos. Cada producto que creamos representa una botella menos en nuestros océanos y vertederos.</p>
                 <p>¡Únete a nuestra misión ecológica y decora tu hogar con conciencia!</p>
                 <a class="btn btn-ecosip" asp-controller="Home" asp-action="About" role="button">Conoce más sobre nosotros</a>
             </div>
             <div class="col-lg-6">
-                <img src="/images/proceso-reciclaje.jpg" class="img-fluid rounded" alt="Proceso de reciclaje">
+                <img src="/image/Logo.jpg" class="img-fluid rounded" alt="Nuestro logo">
             </div>
         </div>
     </div>
