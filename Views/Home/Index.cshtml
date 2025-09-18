@@ -32,6 +32,21 @@
         color: #fff;
     }
 
+    .btn-outline-light {
+        border: 2px solid white;
+        color: white;
+        background-color: transparent;
+        border-radius: 50px;
+        padding: 12px 25px;
+        transition: all 0.3s ease;
+    }
+
+    .btn-outline-light:hover {
+        background-color: white;
+        color: var(--color-primary);
+        transform: translateY(-3px);
+    }
+
     .section-title {
         font-weight: 700;
         color: var(--color-primary);
@@ -109,13 +124,78 @@
         border-radius: 15px;
         box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     }
+
+    /* Animaciones */
+    .animate__animated {
+        animation-duration: 1s;
+        animation-fill-mode: both;
+    }
+
+    .animate__fadeInDown {
+        animation-name: fadeInDown;
+    }
+
+    .animate__fadeInUp {
+        animation-name: fadeInUp;
+    }
+
+    .animate__zoomIn {
+        animation-name: zoomIn;
+    }
+
+    .animate__delay-1s {
+        animation-delay: 1s;
+    }
+
+    .animate__delay-2s {
+        animation-delay: 2s;
+    }
+
+    @@keyframes fadeInDown {
+        from {
+            opacity: 0;
+            transform: translate3d(0, -100%, 0);
+        }
+        to {
+            opacity: 1;
+            transform: translate3d(0, 0, 0);
+        }
+    }
+
+    @@keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translate3d(0, 100%, 0);
+        }
+        to {
+            opacity: 1;
+            transform: translate3d(0, 0, 0);
+        }
+    }
+
+    @@keyframes zoomIn {
+        from {
+            opacity: 0;
+            transform: scale3d(0.3, 0.3, 0.3);
+        }
+        50% {
+            opacity: 1;
+        }
+    }
 </style>
 
 <div class="hero-section">
     <div class="container">
         <h1 class="display-4 animate__animated animate__fadeInDown">Transformamos botellas en arte</h1>
         <p class="lead animate__animated animate__fadeInUp animate__delay-1s">En EcoSip reciclamos botellas plásticas y las convertimos en hermosos adornos para tu hogar.</p>
-        <a class="btn btn-lg btn-ecosip animate__animated animate__zoomIn animate__delay-2s" href="#products" role="button">Ver productos</a>
+        <div class="hero-buttons">
+            <a class="btn btn-lg btn-ecosip me-3 animate__animated animate__zoomIn animate__delay-2s" href="#products" role="button">
+                <i class="fas fa-gift me-2"></i>Ver productos
+            </a>
+            <a class="btn btn-lg btn-outline-light animate__animated animate__zoomIn animate__delay-2s" asp-controller="Personalizacion" asp-action="Index" role="button">
+                <i class="fas fa-palette me-2"></i>Personalizar botella
+            </a>
+        </div>
     </div>
 </div>
 

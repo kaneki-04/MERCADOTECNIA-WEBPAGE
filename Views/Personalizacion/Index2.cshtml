@@ -1,0 +1,123 @@
+@model EcoSip.Web.Models.PersonalizacionBotella
+
+@{
+    ViewData["Title"] = "Personalizador de Botellas - EcoSip";
+}
+
+<div class="customizer-container">
+    <div class="customizer-header">
+        <h1><i class="fas fa-palette me-2"></i>Personalizador de Botellas</h1>
+        <p>Diseña tu botella reciclada perfecta y descubre su precio en tiempo real</p>
+    </div>
+    
+    <form asp-action="Index" id="personalizacion-form">
+        @Html.AntiForgeryToken()
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="preview-container">
+                    <h3>Vista Previa</h3>
+                    <img id="bottle-preview" src="https://i.imgur.com/3sTylUu.png" class="bottle-preview" alt="Botella personalizada">
+                    <div class="mt-3">
+                        <p id="preview-description">Botella de 500ml con diseño estándar</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="customization-panel">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    
+                    <div class="option-group">
+                        <h4 class="option-title"><i class="fas fa-wine-bottle me-2"></i>Tipo de Botella</h4>
+                        <select asp-for="TipoBotella" class="form-select" id="bottle-type">
+                            <option value="pet-500ml" data-price="5.00">PET 500ml (€5.00)</option>
+                            <option value="pet-1l" data-price="7.50">PET 1L (€7.50)</option>
+                            <option value="vidrio-500ml" data-price="8.00">Vidrio 500ml (€8.00)</option>
+                            <option value="vidrio-1l" data-price="12.00">Vidrio 1L (€12.00)</option>
+                        </select>
+                        <span asp-validation-for="TipoBotella" class="text-danger"></span>
+                    </div>
+                    
+                    <!-- Resto del formulario con los campos del modelo -->
+                    <input type="hidden" asp-for="Color" id="selected-color" value="#2E8B57" />
+                    <input type="hidden" asp-for="Patron" id="selected-pattern" value="none" />
+                    <input type="hidden" asp-for="TamañoDiseno" id="selected-size" value="Normal" />
+                    <input type="hidden" asp-for="PrecioBase" id="precio-base" value="5.00" />
+                    
+                    <div class="option-group">
+                        <h4 class="option-title"><i class="fas fa-paint-brush me-2"></i>Color Principal</h4>
+                        <div>
+                            <div class="color-option selected" style="background-color: #2E8B57;" data-color="#2E8B57" title="Verde Eco"></div>
+                            <div class="color-option" style="background-color: #1E90FF;" data-color="#1E90FF" title="Azul Océano"></div>
+                            <div class="color-option" style="background-color: #FF6347;" data-color="#FF6347" title="Rojo Coral"></div>
+                            <div class="color-option" style="background-color: #FFD700;" data-color="#FFD700" title="Amarillo Sol"></div>
+                            <div class="color-option" style="background-color: #9370DB;" data-color="#9370DB" title="Púrpura Lavanda"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Más opciones de personalización -->
+                    
+                    <div class="price-display">
+                        <div class="base-price">Precio base: <span id="base-price">€5.00</span></div>
+                        <div class="final-price"><span id="final-price">€5.00</span></div>
+                        <div class="savings">¡Ahorras <span id="savings-amount">€2.00</span> vs. botella nueva!</div>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-custom">
+                        <i class="fas fa-cart-plus me-2"></i>Añadir al Carrito
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        // JavaScript para manejar la interacción y llamadas AJAX
+        $(document).ready(function() {
+            // Función para calcular precio via AJAX
+            function calcularPrecio() {
+                var model = {
+                    TipoBotella: $('#bottle-type').val(),
+                    Color: $('#selected-color').val(),
+                    Patron: $('#selected-pattern').val(),
+                    TamañoDiseno: $('#selected-size').val(),
+                    PrecioBase: parseFloat($('#precio-base').val()),
+                    IncluirNombre: $('#incluir-nombre').is(':checked'),
+                    IncluirMensaje: $('#incluir-mensaje').is(':checked'),
+                    IncluirLogo: $('#incluir-logo').is(':checked'),
+                    EfectoBrillante: $('#efecto-brillante').is(':checked')
+                };
+                
+                $.ajax({
+                    url: '@Url.Action("CalcularPrecio", "Personalizacion")',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(model),
+                    success: function(response) {
+                        if (response.error) {
+                            console.error(response.error);
+                        } else {
+                            $('#base-price').text('€' + response.precioBase.toFixed(2));
+                            $('#final-price').text('€' + response.precioFinal.toFixed(2));
+                            $('#savings-amount').text('€' + response.ahorro.toFixed(2));
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        console.error('Error al calcular el precio:', error);
+                    }
+                });
+            }
+            
+            // Event listeners para los cambios en las opciones
+            $('#bottle-type, #design-size').change(calcularPrecio);
+            $('.color-option, .pattern-option').click(calcularPrecio);
+            $('.addon-option input').change(calcularPrecio);
+            
+            // Inicializar el precio
+            calcularPrecio();
+        });
+    </script>
+}

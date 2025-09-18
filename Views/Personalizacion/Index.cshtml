@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalizador de Botellas - EcoSip</title>
+    <!-- Tailwind CSS CDN para estilos modernos y responsivos -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome para íconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Configuración personalizada de Tailwind -->
+    <style type="text/tailwindcss">
+    @@layer base {
+        body {
+            @@apply bg-gray-50 text-gray-800 font-sans;
+        }
+    }
+    @@layer components {
+        .btn-custom {
+            @@apply bg-emerald-600 text-white font-semibold py-3 px-8 rounded-full shadow-lg transition-all duration-300 transform hover:scale-105 hover:bg-emerald-700;
+        }
+        .card-panel {
+            @@apply bg-white p-6 md:p-8 rounded-2xl shadow-xl transition-all duration-300 hover:shadow-2xl;
+        }
+        .option-title {
+            @@apply text-lg font-bold text-emerald-600 mb-4 flex items-center;
+        }
+        .color-option, .pattern-option {
+            @@apply transition-transform duration-200 transform hover:scale-110 cursor-pointer border-2 border-transparent;
+        }
+        .color-option.selected {
+            @@apply border-gray-900 scale-125;
+        }
+        .pattern-option.selected {
+            @@apply border-emerald-600 scale-110;
+        }
+    }
+</style>
+
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col">
+
+    <!-- Navbar -->
+    <nav class="bg-emerald-600 text-white py-4 shadow-lg">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <a class="flex items-center space-x-3" href="#">
+                <img src="https://placehold.co/60x60/2E8B57/FFFFFF?text=Eco" alt="EcoSip Logo" class="rounded-lg shadow-md">
+                <span class="text-xl font-bold">EcoSip</span>
+            </a>
+            <div class="hidden md:flex space-x-6">
+                <a class="nav-link" href="#"><i class="fas fa-home mr-1"></i> Inicio</a>
+                <a class="nav-link" href="#"><i class="fas fa-palette mr-1"></i> Personalizar</a>
+                <a class="nav-link" href="#"><i class="fas fa-gift mr-1"></i> Productos</a>
+                <a class="nav-link" href="#"><i class="fas fa-shopping-cart mr-1"></i> Carrito</a>
+            </div>
+            <button class="md:hidden text-2xl">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </nav>
+
+    <div class="container mx-auto px-4 my-8 md:my-12 flex-grow">
+        <div class="text-center mb-8 md:mb-12">
+            <h1 class="text-3xl md:text-5xl font-extrabold text-emerald-700 mb-2"><i class="fas fa-palette mr-2"></i>Personalizador de Botellas</h1>
+            <p class="text-gray-600 text-sm md:text-base">Diseña tu botella reciclada perfecta y descubre su precio en tiempo real</p>
+        </div>
+
+        <div class="flex flex-col lg:flex-row gap-8 card-panel">
+            <!-- Panel de Vista Previa -->
+            <div class="lg:w-1/2 flex flex-col justify-between items-center bg-gray-100 p-6 rounded-xl">
+                <h3 class="text-xl font-semibold mb-4 text-emerald-700">Vista Previa</h3>
+                <img id="bottle-preview" src="https://i.imgur.com/3sTylUu.png" class="w-full max-w-sm h-64 object-contain transition-all duration-300" alt="Botella personalizada">
+                <div class="mt-6 text-center">
+                    <p id="preview-description" class="text-gray-700 font-medium">Botella de 500ml con diseño estándar</p>
+                </div>
+            </div>
+
+            <!-- Panel de Personalización -->
+            <div class="lg:w-1/2 flex flex-col">
+                <div class="space-y-6">
+                    <!-- Tipo de Botella -->
+                    <div class="pb-4 border-b border-gray-200">
+                        <h4 class="option-title"><i class="fas fa-wine-bottle mr-2"></i>Tipo de Botella</h4>
+                        <select class="form-select w-full p-2 border border-gray-300 rounded-lg focus:ring-emerald-500 focus:border-emerald-500" id="bottle-type">
+                            <!-- Los valores de data-price se han convertido a Córdobas Nicaragüenses (C$) -->
+                            <option value="pet-500ml" data-price="199.00" data-base-saving="79.00">PET 500ml (C$199.00)</option>
+                            <option value="pet-1l" data-price="299.00" data-base-saving="119.00">PET 1L (C$299.00)</option>
+                            <option value="vidrio-500ml" data-price="319.00" data-base-saving="129.00">Vidrio 500ml (C$319.00)</option>
+                            <option value="vidrio-1l" data-price="479.00" data-base-saving="189.00">Vidrio 1L (C$479.00)</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Color Principal -->
+                    <div class="pb-4 border-b border-gray-200">
+                        <h4 class="option-title"><i class="fas fa-paint-brush mr-2"></i>Color Principal</h4>
+                        <div class="flex flex-wrap gap-3">
+                            <div class="color-option selected w-10 h-10 rounded-full shadow" style="background-color: #2E8B57;" data-color="#2E8B57" title="Verde Eco"></div>
+                            <div class="color-option w-10 h-10 rounded-full shadow" style="background-color: #1E90FF;" data-color="#1E90FF" title="Azul Océano"></div>
+                            <div class="color-option w-10 h-10 rounded-full shadow" style="background-color: #FF6347;" data-color="#FF6347" title="Rojo Coral"></div>
+                            <div class="color-option w-10 h-10 rounded-full shadow" style="background-color: #FFD700;" data-color="#FFD700" title="Amarillo Sol"></div>
+                            <div class="color-option w-10 h-10 rounded-full shadow" style="background-color: #9370DB;" data-color="#9370DB" title="Púrpura Lavanda"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Patrón de Diseño -->
+                    <div class="pb-4 border-b border-gray-200">
+                        <h4 class="option-title"><i class="fas fa-star mr-2"></i>Patrón de Diseño</h4>
+                        <div class="flex flex-wrap gap-3">
+                            <div class="pattern-option selected w-12 h-12 rounded-lg border-2 border-gray-300 flex justify-center items-center text-xl font-bold text-gray-400" data-pattern="none" title="Sin patrón">N</div>
+                            <div class="pattern-option w-12 h-12 rounded-lg border-2 border-gray-300 flex justify-center items-center text-xl font-bold text-gray-400" data-pattern="stripes" title="Rayas">R</div>
+                            <div class="pattern-option w-12 h-12 rounded-lg border-2 border-gray-300 flex justify-center items-center text-xl font-bold text-gray-400" data-pattern="dots" title="Puntos">P</div>
+                            <div class="pattern-option w-12 h-12 rounded-lg border-2 border-gray-300 flex justify-center items-center text-xl font-bold text-gray-400" data-pattern="waves" title="Ondas">O</div>
+                            <div class="pattern-option w-12 h-12 rounded-lg border-2 border-gray-300 flex justify-center items-center text-xl font-bold text-gray-400" data-pattern="geometric" title="Geométrico">G</div>
+                        </div>
+                    </div>
+                    
+                    <!-- Personalización Adicional -->
+                    <div class="pb-4 border-b border-gray-200">
+                        <h4 class="option-title"><i class="fas fa-tags mr-2"></i>Personalización Adicional</h4>
+                        <div class="space-y-3">
+                            <!-- Los precios de los addons se han convertido a Córdobas Nicaragüenses (C$) -->
+                            <div class="flex items-center justify-between p-4 border border-gray-300 rounded-xl cursor-pointer hover:bg-gray-100 transition-colors duration-200" data-addon="name" data-price="99.00">
+                                <label class="flex items-center space-x-3">
+                                    <input class="form-check-input h-5 w-5 text-emerald-600 rounded-full border-gray-300 focus:ring-emerald-500" type="checkbox">
+                                    <span class="text-gray-700">Nombre personalizado (+C$99.00)</span>
+                                </label>
+                            </div>
+                            <div class="flex items-center justify-between p-4 border border-gray-300 rounded-xl cursor-pointer hover:bg-gray-100 transition-colors duration-200" data-addon="message" data-price="119.00">
+                                <label class="flex items-center space-x-3">
+                                    <input class="form-check-input h-5 w-5 text-emerald-600 rounded-full border-gray-300 focus:ring-emerald-500" type="checkbox">
+                                    <span class="text-gray-700">Mensaje especial (+C$119.00)</span>
+                                </label>
+                            </div>
+                            <div class="flex items-center justify-between p-4 border border-gray-300 rounded-xl cursor-pointer hover:bg-gray-100 transition-colors duration-200" data-addon="logo" data-price="199.00">
+                                <label class="flex items-center space-x-3">
+                                    <input class="form-check-input h-5 w-5 text-emerald-600 rounded-full border-gray-300 focus:ring-emerald-500" type="checkbox">
+                                    <span class="text-gray-700">Logo personalizado (+C$199.00)</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Tamaño del Diseño -->
+                    <div class="pb-4 border-b border-gray-200">
+                        <h4 class="option-title"><i class="fas fa-ruler mr-2"></i>Tamaño del Diseño</h4>
+                        <input type="range" class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-emerald-500" id="design-size" min="1" max="3" step="1" value="1">
+                        <div class="text-center font-semibold text-emerald-600 mt-2">
+                            <span id="size-value">Normal</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Resumen de Precio -->
+                <div class="mt-8 bg-emerald-600 text-white p-6 rounded-xl shadow-lg text-center">
+                    <p class="text-sm font-light opacity-80 line-through">Precio base: <span id="base-price-display">C$199.00</span></p>
+                    <p class="text-3xl font-extrabold mt-2 mb-1"><span id="final-price-display">C$199.00</span></p>
+                    <div class="bg-yellow-400 text-gray-900 font-bold px-4 py-1 rounded-full inline-block text-sm shadow">
+                        ¡Ahorras <span id="savings-amount">C$79.00</span> vs. una botella nueva!
+                    </div>
+                    <button class="btn-custom w-full mt-6">
+                        <i class="fas fa-cart-plus mr-2"></i>Añadir al Carrito
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Elementos de la interfaz
+            const bottlePreview = document.getElementById('bottle-preview');
+            const previewDescription = document.getElementById('preview-description');
+            const bottleTypeSelect = document.getElementById('bottle-type');
+            const colorOptions = document.querySelectorAll('.color-option');
+            const patternOptions = document.querySelectorAll('.pattern-option');
+            const addonOptions = document.querySelectorAll('[data-addon]');
+            const designSizeSlider = document.getElementById('design-size');
+            const sizeValue = document.getElementById('size-value');
+            const basePriceDisplay = document.getElementById('base-price-display');
+            const finalPriceDisplay = document.getElementById('final-price-display');
+            const savingsAmountDisplay = document.getElementById('savings-amount');
+            
+            // Lógica de precios y estado
+            const prices = {
+                pattern: 59.00, // C$ de costo fijo para cualquier patrón
+                size: [0, 40, 80] // Aumento de precio por tamaño (Normal, Grande)
+            };
+
+            function updateAll() {
+                updatePrices();
+                updatePreview();
+            }
+
+            function updatePrices() {
+                let currentBasePrice = parseFloat(bottleTypeSelect.selectedOptions[0].dataset.price);
+                let currentSavings = parseFloat(bottleTypeSelect.selectedOptions[0].dataset.baseSaving);
+                let currentFinalPrice = currentBasePrice;
+
+                // Añadir costo de patrones
+                const selectedPattern = document.querySelector('.pattern-option.selected');
+                if (selectedPattern && selectedPattern.dataset.pattern !== 'none') {
+                    currentFinalPrice += prices.pattern;
+                }
+                
+                // Añadir costo de addons
+                document.querySelectorAll('[data-addon]').forEach(option => {
+                    const checkbox = option.querySelector('input[type="checkbox"]');
+                    if (checkbox && checkbox.checked) {
+                        currentFinalPrice += parseFloat(option.dataset.price);
+                    }
+                });
+                
+                // Ajustar por tamaño del diseño
+                const sizeIndex = parseInt(designSizeSlider.value) - 1;
+                currentFinalPrice += prices.size[sizeIndex];
+                
+                // Actualizar UI de precios
+                basePriceDisplay.textContent = `C$${currentBasePrice.toFixed(2)}`;
+                finalPriceDisplay.textContent = `C$${currentFinalPrice.toFixed(2)}`;
+                savingsAmountDisplay.textContent = `C$${currentSavings.toFixed(2)}`;
+            }
+            
+            function updatePreview() {
+                const bottleType = bottleTypeSelect.value;
+                const selectedPattern = document.querySelector('.pattern-option.selected').dataset.pattern;
+                const selectedAddons = Array.from(document.querySelectorAll('[data-addon] input:checked')).map(el => el.closest('[data-addon]').dataset.addon);
+                const sizeIndex = parseInt(designSizeSlider.value);
+                const sizes = ['Pequeño', 'Normal', 'Grande'];
+
+                // Actualizar la imagen y descripción de la botella
+                bottlePreview.src = bottleType.includes('pet') ? "https://i.imgur.com/3sTylUu.png" : "https://i.imgur.com/5VXJBNy.png";
+                
+                let description = `Botella de ${bottleType.includes('500ml') ? '500ml' : '1L'} de ${bottleType.includes('pet') ? 'PET' : 'Vidrio'}`;
+                
+                if (selectedPattern !== 'none') {
+                    description += ` con diseño de ${selectedPattern}`;
+                }
+
+                if (selectedAddons.length > 0) {
+                    const addonNames = {
+                        name: 'nombre',
+                        message: 'mensaje',
+                        logo: 'logo',
+                    };
+                    const addonDescriptions = selectedAddons.map(addon => addonNames[addon] || addon);
+                    description += ` y personalización de ${addonDescriptions.join(', ')}`;
+                }
+
+                description += `. Tamaño de diseño: ${sizes[sizeIndex - 1]}`;
+                
+                previewDescription.textContent = description;
+            }
+            
+            // Event Listeners
+            bottleTypeSelect.addEventListener('change', updateAll);
+
+            colorOptions.forEach(option => {
+                option.addEventListener('click', function() {
+                    colorOptions.forEach(opt => opt.classList.remove('selected'));
+                    this.classList.add('selected');
+                    // La lógica para cambiar el color visualmente requiere un canvas o SVG,
+                    // lo cual no está implementado en este ejemplo.
+                    updatePreview();
+                });
+            });
+
+            patternOptions.forEach(option => {
+                option.addEventListener('click', function() {
+                    patternOptions.forEach(opt => opt.classList.remove('selected'));
+                    this.classList.add('selected');
+                    updateAll();
+                });
+            });
+
+            addonOptions.forEach(option => {
+                const checkbox = option.querySelector('input[type="checkbox"]');
+                option.addEventListener('click', function(e) {
+                    if (e.target !== checkbox) {
+                        checkbox.checked = !checkbox.checked;
+                    }
+                    option.classList.toggle('bg-emerald-100', checkbox.checked);
+                    updateAll();
+                });
+                checkbox.addEventListener('change', function() {
+                    option.classList.toggle('bg-emerald-100', this.checked);
+                    updateAll();
+                });
+            });
+
+            designSizeSlider.addEventListener('input', function() {
+                const sizes = ['Pequeño', 'Normal', 'Grande'];
+                sizeValue.textContent = sizes[this.value - 1];
+                updateAll();
+            });
+            
+            // Inicializar la aplicación
+            updateAll();
+        });
+    </script>
+</body>
+</html>
