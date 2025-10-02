@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "Sobre EcoSip";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0 rounded-3">
+                <div class="card-header text-white text-center" style="background-color: #2e7d32;">
+                    <h2>@ViewData["Title"]</h2>
+                </div>
+                <div class="card-body" style="background-color: #e8f5e9;">
+                    <p class="lead text-center text-success">
+                        @ViewData["Message"]
+                    </p>
+                    <hr />
+                    <p>
+                        EcoSip es una iniciativa comprometida con el cuidado del medio ambiente, ofreciendo productos
+                        sostenibles que ayudan a reducir el impacto ambiental y promueven un estilo de vida más
+                        responsable con la naturaleza.
+                    </p>
+                    <p>
+                        Nuestro objetivo es inspirar a las personas a tomar decisiones conscientes para proteger el
+                        planeta, fomentando el uso de materiales reciclables, biodegradables y reutilizables.
+                    </p>
+
+                    <!-- Sección de imágenes con enlaces -->
+                    <div class="row text-center mt-4">
+                        <div class="col-md-4 mb-3">
+                            <img src="~/image/maseta.jpg" 
+                                 class="img-fluid rounded shadow-sm border" 
+                                 alt="Producto EcoSip" />
+                            <p class="mt-2 text-success fw-bold">Productos</p>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <img src="~/image/alcancia.jpg" 
+                                 class="img-fluid rounded shadow-sm border" 
+                                 alt="Sostenibilidad" />
+                            <p class="mt-2 text-success fw-bold">Sostenibilidad</p>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <img src="~/image/Logo.jpg" 
+                                 class="img-fluid rounded shadow-sm border" 
+                                 alt="Reciclaje" />
+                            <p class="mt-2 text-success fw-bold">Reciclaje</p>
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-4">
+                        <a href="/Home/Index" class="btn btn-success btn-lg rounded-pill px-4 shadow-sm">
+                            <i class="bi bi-house-fill"></i> Regresar al inicio
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
