@@ -1,10 +1,12 @@
-drop database if exists ecosipDB;
-create database if not exists ecosipDB;
-use ecosipDB;
+drop database if exists EcosipDB;
+create database if not exists EcosipDB;
+use EcosipDB;
 
-create table clientes(
 
-	id_cliente int auto_increment,
+/*
+create table Clientes(
+
+	id_Cliente int auto_increment,
     Username varchar(20) not null,
     Passwd varchar(20) not null,
     Email varchar(50) not null,
@@ -12,6 +14,8 @@ create table clientes(
 	constraint usuarioPK primary key(id_cliente)
 
 );
+*/
+
 
 create table Botellas  (
 
@@ -48,7 +52,7 @@ create table Repartidores(
 create table Pedido (
 
 	id_Pedido INT AUTO_INCREMENT PRIMARY KEY,
-    id_Cliente INT NOT NULL,
+    id_Usuario INT NOT NULL,
     id_Repartidor INT,
     Fecha DATETIME DEFAULT CURRENT_TIMESTAMP,
     Estado ENUM('Pendiente','En camino','Entregado','Cancelado') DEFAULT 'Pendiente',

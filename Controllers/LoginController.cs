@@ -4,9 +4,11 @@ namespace EcoSip.Web.Controllers
 {
     public class LoginController : Controller
     {
-         public IActionResult Index()
+        public IActionResult Index()
         {
             return View();
         }
+        
+        
     }
 }
