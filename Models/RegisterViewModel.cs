@@ -5,6 +5,9 @@ namespace EcoSip.Web.Models
     public class RegisterViewModel
     {
         [Required]
+        public string Username { get; set; } = string.Empty;
+
+        [Required]
         [EmailAddress]
         public string Email { get; set; }
 

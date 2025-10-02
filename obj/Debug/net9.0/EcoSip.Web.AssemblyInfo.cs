@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoSip.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aba5ded380ae3b3409bf7e989c6ab9f39ff1e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f82e367c30279d3d6624ea5fad93cf441fd059")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoSip.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoSip.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
