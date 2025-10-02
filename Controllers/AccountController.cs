@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
-using WebAppIdentity.Models; // Namespace de los modelos
+using EcoSip.Web.Models; // Namespace de los modelos
 
 public class AccountController : Controller
 {
@@ -25,6 +25,13 @@ public class AccountController : Controller
     [HttpPost]
     public async Task<IActionResult> Register(RegisterViewModel model)
     {
+
+        if (!ModelState.IsValid)
+        {
+            // ❌ Mostrar errores de validación en la vista
+            return View(model);
+        }
+
         if (ModelState.IsValid)
         {
             var user = new IdentityUser { UserName = model.Email, Email = model.Email };

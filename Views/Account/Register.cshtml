@@ -1,0 +1,56 @@
+@{
+    ViewData["Title"] = "Registro de Usuario";
+    // Suponiendo que se pasa desde el controller la lista de niveles académicos
+    var niveles = ViewBag.NivelesAcademicos as List<SelectListItem>;
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white text-center">
+                    <h3>Registrarse</h3>
+                </div>
+                <div class="card-body">
+                    @* Mostrar errores generales de ModelState *@
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <div>@error.ErrorMessage</div>
+                            }
+                        </div>
+                    }
+
+                    <form asp-action="Register" method="post" >
+                        <div class="mb-3">
+                            <label for="usuario" class="form-label">Nombre de Usuario</label>
+                            <input type="text" class="form-control" id="usuario" name="usuario" maxlength="16" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="institucion" class="form-label">Email</label>
+                            <input type="text" class="form-control" id="institucion" name="institucion" placeholder="Ingrese el nombre de la institución" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Contraseña</label>
+                            <input type="password" class="form-control" id="password" name="password" maxlength="32" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="confirmarPassword" class="form-label">Confirmar Contraseña</label>
+                            <input type="password" class="form-control" id="confirmarPassword" name="confirmarPassword" maxlength="32" required />
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">Registrarse</button>
+                            <a asp-controller="Login" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
